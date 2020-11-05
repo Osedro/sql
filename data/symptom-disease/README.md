@@ -1,1 +1,0 @@
-Symptom and Disease databases.
