@@ -1,0 +1,12 @@
+id,name
+"Começo","Começo do Processo"
+"Compra","Compra de Matéria Prima"
+"Preparação","Preparação de Equipamento"
+"Produção","Produção"
+"Pedido","Pedido de Produto"
+"Venda","Venda de Produto"
+"Despacho","Despacho de Produto Vendido"
+"Entrega","Entrega de Produto"
+"Fatura","Emissão da Fatura"
+"Cobrança","Cobrança do Produto"
+"Fim","Fim do Processo"
